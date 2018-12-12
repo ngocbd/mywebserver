@@ -1,7 +1,5 @@
 /*
-  A trivial http webserver using Libevent's evhttp.
-  This is not the best code in the world, and it does some fairly stupid stuff
-  that you would never want to do in a production webserver. Caveat hackor!
+  This is stupid code. Happy hacking
  */
 #include <algorithm>
 #include <memory>
